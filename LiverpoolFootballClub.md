@@ -18,20 +18,25 @@
 
 # Team : Liverpool FC 
 # Best Formation : 4-5-1  && 4-3-3 
-# Best Kipper : Dudek && Alisson 
-# Best Beck : Virgil van Dijk 
-# Best Midfielder : Stevan Gerrard && Javier Marscherano 
-# Best Stricker : Sadio Mane , Mohammed Salah , Roberto Firminho , Fernando Torres , Xherdan Shaqiri
-# Best Manager : Bob Paisley && Jurgen Kloop 
-# Legendary : Stevan Gerrard & Fernando Torres 
+# Best Kipper :
+  > Dudek && Alisson 
+# Best Beck :
+  > Virgil van Dijk 
+# Best Midfielder : 
+  > Stevan Gerrard , Javier Marscherano , Xabi Alonso
+# Best Stricker :
+  > Sadio Mane , Mohammed Salah , Roberto Firminho , Fernando Torres , Xherdan Shaqiri
+# Best Manager : 
+  > Bob Paisley & Jurgen Kloop 
+# Legendary :
+  > Stevan Gerrard & Fernando Torres 
 # Fanbase : 
   > Malaysia
   > Spain
   > Germany
   > Finland
 # comunity :
-> Real Madrid
-> Juventus FC
-> AC Milan
-> Atletico Madrid
- 
+  > Real Madrid
+  > Juventus FC
+  > AC Milan
+  > Atletico Madrid
