@@ -1,4 +1,7 @@
 # Liverpool-Football-Club
+> Aniversary : June, 3rd 1892
+> Base : Anfield Stadium , Liverpool , United Kingdom
+> Manager : Anne Slot
 
 # 6 Champions League
   > Winner 1976-1977
