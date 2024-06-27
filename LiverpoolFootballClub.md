@@ -23,15 +23,22 @@
 
 
 # Team 
-  > Liverpool FC 
+  > Liverpool FC
+
 # Best Formation 
   > 4-5-1 <br>
-  > 4-3-3 <br>
+  > 4-3-3 Counter Attack <br>
+  > 4-3-3 <br> 
+  
 # Best Goalkeeper  
-  > Dudek <br> 
-  > Alisson <br> 
+  > Jerzy Dudek <br> 
+  > Alisson Becker <br>
+
 # Best Beck 
-  > Virgil van Dijk 
+  > Virgil van Dijk <br> 
+  > Trent Aleander Arnold <br> 
+  > Robertson <br>
+
 # Best Midfielder 
 
   > Stevan Gerrard <br>
